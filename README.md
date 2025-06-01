@@ -26,6 +26,6 @@ This is a basic CRUD (Create, Read, Update, Delete) application built with **HTM
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/crud-project.git
-Open the index.html file in your browser:
- ```bash
-open index.html
+Open the index.html file in your browser by run it to localhost 
+
+
