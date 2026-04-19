@@ -62,7 +62,7 @@ git clone https://github.com/Loay-zeid/CRUDProject.git
 - Data updates automatically after any action  
 
 <p align="center">
-  <img src="data.png" width="900"/>
+  <img src="table.png" width="900"/>
 </p>
 
 ---
