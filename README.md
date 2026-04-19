@@ -51,7 +51,7 @@ git clone https://github.com/Loay-zeid/CRUDProject.git
 - Data will be added instantly to the table  
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x400?text=Add+Record" width="900"/>
+  <img src="dataForm.png" width="900"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@ git clone https://github.com/Loay-zeid/CRUDProject.git
 - Data updates automatically after any action  
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x400?text=View+Records" width="900"/>
+  <img src="data.png" width="900"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@ git clone https://github.com/Loay-zeid/CRUDProject.git
 - Delete records with one click  
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x400?text=Edit+Delete" width="900"/>
+  <img src="delete-edit.png" width="900"/>
 </p>
 
 ---
