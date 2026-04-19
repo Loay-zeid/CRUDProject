@@ -18,7 +18,7 @@ Designed as a foundational project, it focuses on mastering DOM manipulation, ev
 
 - ➕ Create new records through a form interface  
 - 📋 Display records dynamically in a structured table  
-- ✏️ Update existing entries بسهولة  
+- ✏️ Update existing entries   
 - ❌ Delete records instantly  
 - 💾 Persistent data storage using Local Storage  
 - ⚡ Fast and responsive interaction  
