@@ -6,11 +6,6 @@ The **CRUD Application** is a simple and interactive frontend project built usin
 
 Designed as a foundational project, it focuses on mastering DOM manipulation, event handling, and local data persistence without relying on external frameworks.
 
----
-
-## 🚀 Live Demo
-
-🔗 https://loay-zeid.github.io/CRUDProject/
 
 ---
 
@@ -94,3 +89,9 @@ git clone https://github.com/Loay-zeid/CRUDProject.git
 - 🎨 Improve UI/UX design  
 - ✅ Add form validation  
 - 🌙 Implement dark mode  
+
+---
+
+## 🚀 Live Demo
+
+🔗 https://loay-zeid.github.io/CRUDProject/
